@@ -1,0 +1,400 @@
+42000 undefined
+UF
+42.000
+500 m² útiles
+5 dormitorios
+Casa en venta
+El Arrayán, Lo Barnechea
+Valle Escondido C_358050
+28500 undefined
+UF
+28.500
+367 m² útiles
+5 dormitorios
+Casa en venta
+La Dehesa, Lo Barnechea
+Dehesa Central C_200377
+12800 undefined
+UF
+12.800
+132 m² útiles
+4 dormitorios
+Casa en venta
+Arqto Larraín Bravo 5700 - 6000, Vitacura, Región Metropolitana, Chile, Estadio Manquehue, Vitacura
+Casa A Pasos De Clínica Alemana Y Colegio Alemán
+17000 undefined
+UF
+17.000
+123 m² útiles
+3 dormitorios
+Casa en venta
+La Llavería, Vitacura
+La Llaveria/ Vitacura C_421425
+11700 undefined
+UF
+11.700
+197 m² útiles
+4 dormitorios
+Casa en venta
+La Llavería, Vitacura
+La Llaveria / Leo C_421443
+12800 undefined
+UF
+12.800
+132 m² útiles
+4 dormitorios
+Casa en venta
+Estadio Manquehue, Vitacura
+Manquehue / Kennedy C_421426
+21900 undefined
+UF
+21.900
+200 m² útiles
+3 dormitorios
+Casa en venta
+Golf Lomas De La Dehesa- Cancha De Golf, La Dehesa, Lo Barnechea
+Vende Casa Condominio Club Lomas La Dehesa En Lo Barnechea
+12800 undefined
+UF
+12.800
+80 m² útiles
+3 dormitorios
+Casa en venta
+Lo Beltrán / Samotracia, Estadio Croata, Vitacura
+Casa En Venta De 3 Dorm. En Vitacura
+18000 undefined
+UF
+18.000
+220 m² útiles
+7 dormitorios
+Casa en venta
+San Francisco De Asís Con San Carlos De Apoquindo, San Carlos De Apoquindo, Las Condes
+Casa Para Remodelar De 9 Dorm. En San Carlos De Apoq.
+420000000 pesos
+$
+420.000.000
+171 m² útiles
+5 dormitorios
+Casa en venta
+Paul Harris, Los Dominicos, Las Condes
+Casa Paul Harris Id: 76468
+31500 undefined
+UF
+31.500
+250 m² útiles
+4 dormitorios
+Casa en venta
+San Damián, San Damián, Las Condes
+Linda Casa Chilena Con Gran Terreno En Venta - San Damián
+12700 undefined
+UF
+12.700
+150 m² útiles
+3 dormitorios
+Casa en venta
+Nuestra Señora Del Rosario, Vitacura
+Geronimo Alderete/ Kennedy C_421404
+14500 undefined
+UF
+14.500
+140 m² útiles
+3 dormitorios
+Casa en venta
+Camino A Farellones, Lo Barnechea
+Camino A Farellones C_200453
+23900 undefined
+UF
+23.900
+350 m² útiles
+4 dormitorios
+Casa en venta
+-plaza San Enrique Y Pastor Fernandez, El Arrayán, Lo Barnechea
+Casa En Venta De 4 Dormitorios En Lo Barnechea
+16890 undefined
+UF
+16.890
+230 m² útiles
+3 dormitorios
+Casa en venta
+Cardenal Newman, Las Condes, Chile, Los Dominicos, Las Condes
+Townhouse I A Estrenar I Espectacular I Punta Del Este
+20000 undefined
+UF
+20.000
+240 m² útiles
+4 dormitorios
+Casa en venta
+Camino El Cajon, Lo Barnechea
+Casa En Venta De 4 Dormitorios En Lo Barnechea
+12500 undefined
+UF
+12.500
+180 m² útiles
+5 dormitorios
+Casa en venta
+Lucas Araya, Lo Barnechea, Chile, Plaza San Enrique, Lo Barnechea
+Av Las Condes
+39000 undefined
+UF
+39.000
+449 m² útiles
+5 dormitorios
+Casa en venta
+La Dehesa, Lo Barnechea
+Felipe Cubillos C_201290
+36000 undefined
+UF
+36.000
+281 m² útiles
+5 dormitorios
+Casa en venta
+Pío Xi, Vitacura
+Las Hualtatas/ Arturo Ureta C_420988
+48900 undefined
+UF
+48.900
+400 m² útiles
+5 dormitorios
+Casa en venta
+Condominio El Tranque De Lo Curro, Lo Curro, Vitacura
+Casa En Venta De 5 Dorm. En Vitacura
+22900 undefined
+UF
+22.900
+303 m² útiles
+4 dormitorios
+Casa en venta
+El Huinganal, Lo Barnechea
+Colegio Mayflower C_421398
+22490 undefined
+UF
+22.490
+200 m² útiles
+5 dormitorios
+Casa en venta
+Av. La Plaza 300 - 600, Las Condes, Chile, San Carlos De Apoquindo, Las Condes
+Open House Vende Linda Casa Estilo Ingles Av La Plaza
+16800 undefined
+UF
+16.800
+195 m² útiles
+5 dormitorios
+Casa en venta
+Lo Gallo, Vitacura, Chile, Estadio Croata, Vitacura
+Lo Gallo I Acogedora Y Bonita I Lindo Jardín
+18450 undefined
+UF
+18.450
+180 m² útiles
+5 dormitorios
+Casa en venta
+Valle Del Monasterio 2100 - 2400, Lo Barnechea, Chile, Los Trapenses, Lo Barnechea
+Estupenda Casa En Condominio- Los Trapenses
+13000 undefined
+UF
+13.000
+110 m² útiles
+4 dormitorios
+Casa en venta
+Pedro Canisio 1500 - 1800, Vitacura, Región Metropolitana, Chile, Pío Xi, Vitacura
+Casa Pasaje Cerrado, Para Remodelar
+19900 undefined
+UF
+19.900
+184 m² útiles
+4 dormitorios
+Casa en venta
+Av. La Plaza, Las Condes, Chile, San Carlos De Apoquindo, Las Condes
+Compre Sin Comisión / Condominio/ Universidad Del Desarrollo
+27900 undefined
+UF
+27.900
+222 m² útiles
+4 dormitorios
+Casa en venta
+Ascencio De Zavala, Vitacura, Chile, Borde Río - Casa Piedra, Vitacura
+Polo I Ascencio De Zavala I Candelaria Goyenechea
+55000 undefined
+UF
+55.000
+527 m² útiles
+5 dormitorios
+Casa en venta
+San Carlos De Apoquindo, Las Condes
+San Fco De Asís - Mirador De San Damián
+18700 undefined
+UF
+18.700
+139 m² útiles
+3 dormitorios
+Casa en venta
+Camino San Francisco De Asis, Las Condes, Chile, San Carlos De Apoquindo, Las Condes
+En Condominio, San Carlos De Apoquindo
+22990 undefined
+UF
+22.990
+239 m² útiles
+4 dormitorios
+Casa en venta
+Contralmirante Fernández Vial 10999, Lo Barnechea, Región Metropolitana, Chile, La Dehesa, Lo Barnechea
+Compre Sin Comisión / Colegio Newland / Buena Conectividad
+25000 undefined
+UF
+25.000
+210 m² útiles
+6 dormitorios
+Casa en venta
+Recife 1800 - 2100, Vitacura, Chile, Juan Xxiii, Vitacura
+Fabulosa Casa/excelente Arquitectura/ Luis Pasteur/colegios
+18900 undefined
+UF
+18.900
+240 m² útiles
+5 dormitorios
+Casa en venta
+Santa María 6900 - 7200, Vitacura, Chile, Santa María De Manquehue, Vitacura
+Oportunidad - Santa Maria De Manquehue - Condominio.
+17950 undefined
+UF
+17.950
+220 m² útiles
+6 dormitorios
+Casa en venta
+El Sacristán, Las Condes, Chile, San Carlos De Apoquindo, Las Condes
+Compre Sin Comisión / Colegio Cumbres
+12900 undefined
+UF
+12.900
+162 m² útiles
+3 dormitorios
+Casa en venta
+Villa El Dorado, Vitacura
+Las Tranqueras/kennedy C_396977
+18990 undefined
+UF
+18.990
+156 m² útiles
+4 dormitorios
+Casa en venta
+Parque Los Castaños, Lo Barnechea, Chile, La Dehesa, Lo Barnechea
+Compre Sin Comisión / Condominio / Colegio Newland
+25000 undefined
+UF
+25.000
+260 m² útiles
+5 dormitorios
+Casa en venta
+Camino Del Misionero, Lo Barnechea, Chile, Los Trapenses, Lo Barnechea
+Compre Sin Comisión / Colegio Everest / Calle Tranquila
+22400 undefined
+UF
+22.400
+220 m² útiles
+4 dormitorios
+Casa en venta
+Camino De La Colina, Lo Barnechea, Chile, El Huinganal, Lo Barnechea
+Compre Sin Comisión / Calle Cerrada / Colegio Huinganal
+25500 undefined
+UF
+25.500
+360 m² útiles
+4 dormitorios
+Casa en venta
+Manuel Guzmán Maturana, Lo Barnechea, Chile, La Dehesa, Lo Barnechea
+Compre Sin Comisión / Colegio Newland / Buena Conectividad
+28800 undefined
+UF
+28.800
+363 m² útiles
+4 dormitorios
+Casa en venta
+Los Trapenses, Lo Barnechea
+Golf De Manquehue C_200101
+29000 undefined
+UF
+29.000
+371 m² útiles
+6 dormitorios
+Casa en venta
+Itahue, Las Condes, Chile, Quinchamalí, Las Condes
+Compre Sin Comisión / Quinchamali
+49600 undefined
+UF
+49.600
+525 m² útiles
+7 dormitorios
+Casa en venta
+Venta Exclusiva Casa Condominio En Valle Escondido, Lo Barnechea, El Arrayán, Lo Barnechea
+Casa En Venta De 7 Dorm. En Lo Barnechea
+17300 undefined
+UF
+17.300
+270 m² útiles
+5 dormitorios
+Casa en venta
+Cam. De La Laguna 14100 - 14400, Lo Barnechea, Región Metropolitana, Chile, El Huinganal, Lo Barnechea
+Casa Condominio // Colegio Mayflower
+23500 undefined
+UF
+23.500
+230 m² útiles
+4 dormitorios
+Casa en venta
+Camino Del Campero, Lo Barnechea, Chile, El Huinganal, Lo Barnechea
+Compre Sin Comisión / Huinganal
+24900 undefined
+UF
+24.900
+380 m² útiles
+5 dormitorios
+Casa en venta
+Avenida El Tranque, Lo Barnechea, Chile, La Dehesa, Lo Barnechea
+Compre Sin Comisión / Calle Tranquila / Colegio Newland
+26500 undefined
+UF
+26.500
+247 m² útiles
+5 dormitorios
+Casa en venta
+Calle Luis Pasteur 2400 - 2700, Vitacura
+Impecable Mediterranea 100% Remodelada, Sector Luis Pasteur
+25000 undefined
+UF
+25.000
+372 m² útiles
+4 dormitorios
+Casa en venta
+Camino De La Aguada, Lo Barnechea, Chile, La Dehesa, Lo Barnechea
+Compre Sin Comisión / Buena Conectividad
+12500 undefined
+UF
+12.500
+140 m² útiles
+5 dormitorios
+Casa en venta
+Paul Harris 9600 - 9900, Las Condes, Chile, Estoril, Las Condes
+Paul Harris, A Pasos De Estoril. La Mejor Ubicación!
+22900 undefined
+UF
+22.900
+200 m² útiles
+3 dormitorios
+Casa en venta
+Iguazú, Vitacura, Chile, Jardín Del Este, Vitacura
+Encantadora Casa Buena Distribución Cercana A Colegios
+22000 undefined
+UF
+22.000
+182 m² útiles
+4 dormitorios
+Casa en venta
+Vitacura / Padre Hurtado Norte, Vitacura
+Casa En Venta De 4 Dorm. En Vitacura
+25000 undefined
+UF
+25.000
+400 m² útiles
+4 dormitorios
+Casa en venta
+El Huinganal, Lo Barnechea
+Colegio Mayflower C_202235

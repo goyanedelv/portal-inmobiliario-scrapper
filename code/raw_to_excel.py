@@ -66,7 +66,7 @@ for i in arr:
                 else:
                     metraje_1 = float(line.replace(" m² útiles",""))
 
-            if ("Departamento en venta" in line):
+            if (("Departamento en venta" in line) | ("Casa en venta" in line)):
                 address_1 = lines[j].replace(",","")
 
             j += 1
