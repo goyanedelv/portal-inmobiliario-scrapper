@@ -1,0 +1,400 @@
+1950 undefined
+UF
+1.950
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Compañía De Jesús, Santiago
+Departamento Compañía De Jesús Id: 44196
+1900 undefined
+UF
+1.900
+35 m² útiles
+1 dormitorio
+Departamento en venta
+General Gana, Santiago
+Departamento General Gana Id: 41203
+3650 undefined
+UF
+3.650
+42 m² útiles
+1 dormitorio
+Departamento en venta
+Santo Domingo, Santiago
+Departamento Santo Domingo Id: 32761
+2800 undefined
+UF
+2.800
+42 m² útiles
+2 dormitorios
+Departamento en venta
+Nicasio Retamales, Estación Central
+Departamento Nicasio Retamales Id: 23894
+1290 undefined
+UF
+1.290
+22 m² útiles
+1 dormitorio
+Departamento en venta
+Coronel Souper, Estación Central
+Departamento Coronel Souper Id: 40556
+2350 undefined
+UF
+2.350
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox 135, Bulnes, Santiago
+Departamento Nataniel Cox 135 Id: 70624
+70080000 pesos
+$
+70.080.000
+57 m² útiles
+2 dormitorios
+Departamento en venta
+General Amengual, Estación Central
+Departamento General Amengual Id: 37466
+2200 undefined
+UF
+2.200
+29 m² útiles
+1 dormitorio
+Departamento en venta
+Arturo Prat, San Diego, Santiago
+Departamento Arturo Prat Id: 44316
+2100 undefined
+UF
+2.100
+40 m² útiles
+2 dormitorios
+Departamento en venta
+Blanco Garcés, San Alberto Hurtado, Estación Central
+Departamento Blanco Garcés Id: 38529
+2550 undefined
+UF
+2.550
+66 m² útiles
+3 dormitorios
+Departamento en venta
+Avenida Padre Alberto Hurtado, Estación Central
+Departamento Avenida Padre Alberto Hurtado Id: 22893
+2200 undefined
+UF
+2.200
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Zenteno 1482 Departamento, Santiago
+Departamento Zenteno 1482 Departamento Id: 32371
+3440 undefined
+UF
+3.440
+65 m² útiles
+3 dormitorios
+Departamento en venta
+General Gana, Franklin - Biobío, Santiago
+Departamento General Gana Id: 38830
+2190 undefined
+UF
+2.190
+30 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Bulnes, Santiago
+Departamento San Diego Id: 33828
+2800 undefined
+UF
+2.800
+33 m² útiles
+1 dormitorio
+Departamento en venta
+Compañía De Jesús, Santiago
+Departamento Compañía De Jesús Id: 44612
+3500 undefined
+UF
+3.500
+58 m² útiles
+2 dormitorios
+Departamento en venta
+San Francisco, Santiago
+Departamento San Francisco Id: 40216
+2400 undefined
+UF
+2.400
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 16069
+2190 undefined
+UF
+2.190
+49 m² útiles
+3 dormitorios
+Departamento en venta
+Cruchaga Montt, Quinta Normal
+Departamento Cruchaga Montt Id: 33989
+1890 undefined
+UF
+1.890
+34 m² útiles
+1 dormitorio
+Departamento en venta
+Radal, Metro Ecuador, Estación Central
+Departamento Radal Id: 10458
+1500 undefined
+UF
+1.500
+22 m² útiles
+1 dormitorio
+Departamento en venta
+General Gana, Franklin - Biobío, Santiago
+Departamento General Gana Id: 23389
+2000 undefined
+UF
+2.000
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Santiago, Parque O'higgins
+Departamento Santiago Id: 44209
+2200 undefined
+UF
+2.200
+35 m² útiles
+1 dormitorio
+Departamento en venta
+Tucapel Jiménez, Centro Histórico De Santiago, Santiago
+Departamento Tucapel Jiménez Id: 74441
+2000 undefined
+UF
+2.000
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Placilla, San Alberto Hurtado, Estación Central
+Departamento Placilla Id: 72535
+4600 undefined
+UF
+4.600
+60 m² útiles
+2 dormitorios
+Departamento en venta
+Carmen, Santiago
+Departamento Carmen Id: 18082
+120000000 pesos
+$
+120.000.000
+52 m² útiles
+2 dormitorios
+Departamento en venta
+Amunátegui, Santiago
+Departamento Amunátegui Id: 37533
+2150 undefined
+UF
+2.150
+47 m² útiles
+3 dormitorios
+Departamento en venta
+Santa Rosa, San Joaquín
+Departamento Santa Rosa Id: 32998
+1990 undefined
+UF
+1.990
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Compañía De Jesús, Santiago
+Departamento Compañía De Jesús Id: 44133
+3200 undefined
+UF
+3.200
+52 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Manuel Antonio Matta, San Diego, Santiago
+Departamento Avenida Manuel Antonio Matta Id: 34462
+3000 undefined
+UF
+3.000
+44 m² útiles
+2 dormitorios
+Departamento en venta
+San Francisco, Bulnes, Santiago
+Departamento San Francisco Id: 74748
+2300 undefined
+UF
+2.300
+31 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Santiago
+Departamento San Diego Id: 71916
+2990 undefined
+UF
+2.990
+42 m² útiles
+1 dormitorio
+Departamento en venta
+Avenida Salesianos, Lo Vial, San Miguel
+Departamento Avenida Salesianos Id: 37305
+1990 undefined
+UF
+1.990
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Compañía De Jesús, Barrio Brasil, Santiago
+Departamento Compañía De Jesús Id: 44194
+2100 undefined
+UF
+2.100
+29 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox, Bulnes, Santiago
+Departamento Nataniel Cox Id: 70637
+1950 undefined
+UF
+1.950
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Compañía De Jesús, Barrio Brasil, Santiago
+Departamento Compañía De Jesús Id: 44195
+1900 undefined
+UF
+1.900
+32 m² útiles
+1 dormitorio
+Departamento en venta
+Sargento Aldea, Santiago
+Departamento Sargento Aldea Id: 20314
+2045 undefined
+UF
+2.045
+26 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Parque Almagro, Santiago
+Departamento San Diego Id: 57076
+1550 undefined
+UF
+1.550
+25 m² útiles
+1 dormitorio
+Departamento en venta
+Serrano, San Diego, Santiago
+Departamento Serrano Id: 28933
+2650 undefined
+UF
+2.650
+54 m² útiles
+2 dormitorios
+Departamento en venta
+Carlos Pezoa Véliz, Metro Ecuador, Estación Central
+Departamento Carlos Pezoa Véliz Id: 32402
+1690 undefined
+UF
+1.690
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Conde Del Maule, San Alberto Hurtado, Estación Central
+Departamento Conde Del Maule Id: 63531
+2450 undefined
+UF
+2.450
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Tucapel Jiménez, Santiago
+Departamento Tucapel Jiménez Id: 36624
+2100 undefined
+UF
+2.100
+37 m² útiles
+1 dormitorio
+Departamento en venta
+Recreo, San Alberto Hurtado, Estación Central
+Departamento Recreo Id: 36201
+2400 undefined
+UF
+2.400
+47 m² útiles
+2 dormitorios
+Departamento en venta
+Conde Del Maule, Metro Ecuador, Estación Central
+Departamento Conde Del Maule Id: 17516
+2600 undefined
+UF
+2.600
+47 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Libertador Bernardo O'higgins, San Alberto Hurtado, Estación Central
+Departamento Avenida Libertador Bernardo O'higgins Id: 44509
+8787 undefined
+UF
+8.787
+145 m² útiles
+3 dormitorios
+Departamento en venta
+Bartolo Soto 3900 - 4200, San Miguel, Chile, El Llano, San Miguel
+Maravilloso Departamento De Nivel Superior
+2000 undefined
+UF
+2.000
+32 m² útiles
+1 dormitorio
+Departamento en venta
+Conde Del Maule 4106, Estación Central
+Departamento Conde Del Maule 4106 Id: 67126
+2300 undefined
+UF
+2.300
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox 135, Bulnes, Santiago
+Departamento Nataniel Cox 135 Id: 70627
+1892 undefined
+UF
+1.892
+24 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Parque Almagro, Santiago
+Departamento San Diego Id: 57059
+3850 undefined
+UF
+3.850
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 38555
+1580 undefined
+UF
+1.580
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Buzo Sobenes 4650, Santiago, Estación Central, Chile, San Alberto Hurtado, Estación Central
+Cercano A Metro Ecuador
+2490 undefined
+UF
+2.490
+34 m² útiles
+1 dormitorio
+Departamento en venta
+Metro Bellas Artes, Centro Histórico De Santiago, Santiago
+Departamento En Venta De 1 Dorm. En Santiago
+2200 undefined
+UF
+2.200
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Tarapacá, Bulnes, Santiago
+Departamento Tarapacá Id: 34470

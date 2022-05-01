@@ -1,0 +1,397 @@
+3300 undefined
+UF
+3.300
+54 m² útiles
+2 dormitorios
+Departamento en venta
+Tarapacá, Bulnes, Santiago
+Departamento Tarapacá Id: 23606
+3100 undefined
+UF
+3.100
+40 m² útiles
+1 dormitorio
+Departamento en venta
+Teresa Vial, San Miguel
+Departamento Teresa Vial Id: 41645
+4000 undefined
+UF
+4.000
+70 m² útiles
+3 dormitorios
+Departamento en venta
+General Las Heras, Parque Almagro, Santiago
+Departamento General Las Heras Id: 36474
+2100 undefined
+UF
+2.100
+35 m² útiles
+1 dormitorio
+Departamento en venta
+Santo Domingo, Santiago
+Departamento Santo Domingo Id: 37451
+2000 undefined
+UF
+2.000
+29 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego 1344 , Dpto. 1812-c, Parque O'higgins, Santiago
+Departamento Cercano A Estación De Metro Parque O´higgins
+4200 undefined
+UF
+4.200
+67 m² útiles
+3 dormitorios
+Departamento en venta
+Lord Cochrane, Bulnes, Santiago
+Departamento Lord Cochrane Id: 39053
+3800 undefined
+UF
+3.800
+55 m² útiles
+2 dormitorios
+Departamento en venta
+Álvarez De Toledo, San Miguel
+Departamento Álvarez De Toledo Id: 40166
+3360 undefined
+UF
+3.360
+56 m² útiles
+3 dormitorios
+Departamento en venta
+Moneda 2100 - 2400, Santiago, Chile, Barrio Brasil, Santiago
+Bello Departamento En Santiago Centro, Remodelado
+175000000 pesos
+$
+175.000.000
+77 m² útiles
+3 dormitorios
+Departamento en venta
+Calle San Ignacio De Loyola, El Llano, San Miguel
+Departamento Calle San Ignacio De Loyola Id: 73983
+2500 undefined
+UF
+2.500
+50 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Ecuador, Estación Central
+Departamento Avenida Ecuador Id: 35361
+1850 undefined
+UF
+1.850
+32 m² útiles
+1 dormitorio
+Departamento en venta
+Radal, Metro Ecuador, Estación Central
+Departamento Radal Id: 40170
+4100 undefined
+UF
+4.100
+61 m² útiles
+3 dormitorios
+Departamento en venta
+Carmen, Santiago
+Departamento Carmen Id: 37319
+1800 undefined
+UF
+1.800
+39 m² útiles
+1 dormitorio
+Departamento en venta
+Padre Alonso De Ovalle 868, Bulnes, Santiago
+Departamento Padre Alonso De Ovalle 868 Id: 72937
+2300 undefined
+UF
+2.300
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox 135, Bulnes, Santiago
+Departamento Nataniel Cox 135 Id: 70635
+3700 undefined
+UF
+3.700
+52 m² útiles
+1 dormitorio
+Departamento en venta
+Tarapacá, Santiago
+Departamento Tarapacá Id: 44671
+4650 undefined
+UF
+4.650
+53 m² útiles
+2 dormitorios
+Departamento en venta
+San Miguel/bartolo Soto (1140), El Llano, San Miguel
+2300 undefined
+UF
+2.300
+37 m² útiles
+1 dormitorio
+Departamento en venta
+Lord Cochrane, Parque Almagro, Santiago
+Departamento Lord Cochrane Id: 72579
+3560 undefined
+UF
+3.560
+67 m² útiles
+2 dormitorios
+Departamento en venta
+La Marina, Lo Vial, San Miguel
+Departamento La Marina Id: 68328
+3450 undefined
+UF
+3.450
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 41908
+4600 undefined
+UF
+4.600
+77 m² útiles
+3 dormitorios
+Departamento en venta
+Ventura Blanco Viel 1320, Lo Vial, San Miguel
+Departamento Ventura Blanco Viel 1320 Id: 71977
+3500 undefined
+UF
+3.500
+73 m² útiles
+3 dormitorios
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 32660
+119000000 pesos
+$
+119.000.000
+55 m² útiles
+2 dormitorios
+Departamento en venta
+Berlín, Lo Vial, San Miguel
+Departamento Berlín Id: 40409
+2800 undefined
+UF
+2.800
+42 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida España, Barrio República, Santiago
+Departamento Avenida España Id: 22229
+3000 undefined
+UF
+3.000
+51 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Las Torres, Metro Pajaritos, Estación Central
+Departamento Avenida Las Torres Id: 44142
+2990 undefined
+UF
+2.990
+40 m² útiles
+1 dormitorio
+Departamento en venta
+Sazié/ Jose Miguel Carrera/ Metro Republica, Ejército - Toesca, Santiago
+3990 undefined
+UF
+3.990
+57 m² útiles
+2 dormitorios
+Departamento en venta
+Calle San Ignacio De Loyola, El Llano, San Miguel
+Departamento Calle San Ignacio De Loyola Id: 73691
+1600 undefined
+UF
+1.600
+25 m² útiles
+1 dormitorio
+Departamento en venta
+San Isidro, Barrio Diez De Julio, Santiago
+Departamento San Isidro Id: 32591
+2500 undefined
+UF
+2.500
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Gorbea, Barrio República, Santiago
+Departamento Gorbea Id: 36139
+110000000 pesos
+$
+110.000.000
+41 m² útiles
+2 dormitorios
+Departamento en venta
+Raulí, Santa Isabel, Santiago
+Departamento Raulí Id: 75112
+1950 undefined
+UF
+1.950
+31 m² útiles
+1 dormitorio
+Departamento en venta
+Eleuterio Ramírez, Dieciocho, Santiago
+Departamento Eleuterio Ramírez Id: 42749
+60000000 pesos
+$
+60.000.000
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Cóndor, Santiago
+Departamento Cóndor Id: 39795
+3851 undefined
+UF
+3.851
+57 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Claudio Arrau, Barrancas, Pudahuel
+Departamento Avenida Claudio Arrau Id: 72408
+90000000 pesos
+$
+90.000.000
+47 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida María Rozas Velásquez, Metro Las Rejas, Estación Central
+Departamento Avenida María Rozas Velásquez Id: 39417
+2150 undefined
+UF
+2.150
+50 m² útiles
+3 dormitorios
+Departamento en venta
+Placer, Santiago
+Departamento Placer Id: 24079
+2800 undefined
+UF
+2.800
+40 m² útiles
+2 dormitorios
+Departamento en venta
+Carmen, Santiago
+Departamento Carmen Id: 36984
+3100 undefined
+UF
+3.100
+50 m² útiles
+2 dormitorios
+Departamento en venta
+Santa Victoria, Santa Isabel, Santiago
+Departamento Santa Victoria Id: 32128
+3400 undefined
+UF
+3.400
+60 m² útiles
+2 dormitorios
+Departamento en venta
+Marín, Santiago
+Departamento Marín Id: 39356
+3400 undefined
+UF
+3.400
+78 m² útiles
+3 dormitorios
+Departamento en venta
+Alcalde Pedro Alarcón, El Llano, San Miguel
+Departamento Alcalde Pedro Alarcón Id: 23899
+3720 undefined
+UF
+3.720
+68 m² útiles
+3 dormitorios
+Departamento en venta
+Amunátegui, Centro Histórico De Santiago, Santiago
+Departamento Amunátegui Id: 32058
+1350 undefined
+UF
+1.350
+28 m² útiles
+1 dormitorio
+Departamento en venta
+Conde Del Maule, Estación Central
+Departamento Conde Del Maule Id: 35457
+2000 undefined
+UF
+2.000
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Rosas 2599, Barrio Yungay, Santiago
+Departamento Rosas 2599 Id: 73148
+2600 undefined
+UF
+2.600
+34 m² útiles
+2 dormitorios
+Departamento en venta
+General Bulnes/ Catedral/ Metro Cummins, Barrio Yungay, Santiago
+68000000 pesos
+$
+68.000.000
+38 m² útiles
+1 dormitorio
+Departamento en venta
+Santo Domingo, Centro Histórico De Santiago, Santiago
+Departamento Santo Domingo Id: 34078
+71000000 pesos
+$
+71.000.000
+32 m² útiles
+1 dormitorio
+Departamento en venta
+Santa Victoria, Santiago
+Departamento Santa Victoria Id: 36198
+2950 undefined
+UF
+2.950
+52 m² útiles
+2 dormitorios
+Departamento en venta
+Santo Domingo, Quinta Normal
+Departamento Santo Domingo Id: 14712
+2500 undefined
+UF
+2.500
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Santo Domingo, Gruta De Lourdes, Quinta Normal
+Departamento Santo Domingo Id: 33259
+2100 undefined
+UF
+2.100
+29 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox 135, Bulnes, Santiago
+Departamento Nataniel Cox 135 Id: 72627
+2700 undefined
+UF
+2.700
+50 m² útiles
+2 dormitorios
+Departamento en venta
+San Francisco, Santiago
+Departamento San Francisco Id: 32329
+1850 undefined
+UF
+1.850
+25 m² útiles
+1 dormitorio
+Departamento en venta
+García Reyes, Santiago
+Departamento García Reyes Id: 38198
+1541 undefined
+UF
+1.541
+21 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Santiago
+Departamento San Diego Id: 57232
