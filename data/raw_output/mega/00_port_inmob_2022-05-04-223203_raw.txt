@@ -1,0 +1,399 @@
+4000 undefined
+UF
+4.000
+70 m² útiles
+3 dormitorios
+Departamento en venta
+General Las Heras, Parque Almagro, Santiago
+Departamento General Las Heras Id: 36474
+58000000 pesos
+$
+58.000.000
+27 m² útiles
+1 dormitorio
+Departamento en venta
+Toesca, Ejército - Toesca, Santiago
+Departamento Toesca Id: 29842
+2150 undefined
+UF
+2.150
+40 m² útiles
+1 dormitorio
+Departamento en venta
+Nataniel Cox, Bulnes, Santiago
+Departamento Nataniel Cox Id: 15805
+3450 undefined
+UF
+3.450
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 41908
+4100 undefined
+UF
+4.100
+46 m² útiles
+1 dormitorio
+Departamento en venta
+Dieciocho, Parque Almagro, Santiago
+Departamento Dieciocho Id: 64890
+3720 undefined
+UF
+3.720
+68 m² útiles
+3 dormitorios
+Departamento en venta
+Amunátegui, Centro Histórico De Santiago, Santiago
+Departamento Amunátegui Id: 32058
+3590 undefined
+UF
+3.590
+65 m² útiles
+2 dormitorios
+Departamento en venta
+Amunátegui, Centro Histórico De Santiago, Santiago
+Departamento Amunátegui Id: 45179
+1990 undefined
+UF
+1.990
+40 m² útiles
+1 dormitorio
+Departamento en venta
+Apóstol Santiago, San Alberto Hurtado, Estación Central
+Departamento Apóstol Santiago Id: 59839
+2200 undefined
+UF
+2.200
+29 m² útiles
+1 dormitorio
+Departamento en venta
+Arturo Prat, San Diego, Santiago
+Departamento Arturo Prat Id: 44316
+3100 undefined
+UF
+3.100
+52 m² útiles
+2 dormitorios
+Departamento en venta
+Roberto Espinoza, Parque Almagro, Santiago
+Departamento Roberto Espinoza Id: 72942
+90000000 pesos
+$
+90.000.000
+53 m² útiles
+2 dormitorios
+Departamento en venta
+San Martín, Centro Histórico De Santiago, Santiago
+Departamento San Martín Id: 55623
+3200 undefined
+UF
+3.200
+54 m² útiles
+2 dormitorios
+Departamento en venta
+Tarapacá, Bulnes, Santiago
+Departamento Tarapacá Id: 23606
+3100 undefined
+UF
+3.100
+50 m² útiles
+2 dormitorios
+Departamento en venta
+Santa Victoria, Santa Isabel, Santiago
+Departamento Santa Victoria Id: 32128
+1600 undefined
+UF
+1.600
+25 m² útiles
+1 dormitorio
+Departamento en venta
+San Isidro, Barrio Diez De Julio, Santiago
+Departamento San Isidro Id: 32591
+2500 undefined
+UF
+2.500
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Gorbea, Barrio República, Santiago
+Departamento Gorbea Id: 36139
+3300 undefined
+UF
+3.300
+74 m² útiles
+3 dormitorios
+Departamento en venta
+Huérfanos, Centro Histórico De Santiago, Santiago
+Departamento Huérfanos Id: 39202
+2500 undefined
+UF
+2.500
+43 m² útiles
+2 dormitorios
+Departamento en venta
+Santo Domingo, Gruta De Lourdes, Quinta Normal
+Departamento Santo Domingo Id: 33259
+2400 undefined
+UF
+2.400
+36 m² útiles
+1 dormitorio
+Departamento en venta
+Santa Rosa, San Diego, Santiago
+Departamento Santa Rosa Id: 16069
+2500 undefined
+UF
+2.500
+31 m² útiles
+1 dormitorio
+Departamento en venta
+Arturo Prat, Parque O'higgins, Santiago
+Departamento Arturo Prat Id: 38553
+2600 undefined
+UF
+2.600
+42 m² útiles
+2 dormitorios
+Departamento en venta
+San Isidro, Santa Isabel, Santiago
+Departamento San Isidro Id: 56276
+2400 undefined
+UF
+2.400
+30 m² útiles
+1 dormitorio
+Departamento en venta
+San Isidro, Barrio Diez De Julio, Santiago
+Departamento San Isidro Id: 57529
+3790 undefined
+UF
+3.790
+60 m² útiles
+2 dormitorios
+Departamento en venta
+Amunátegui, Centro Histórico De Santiago, Santiago
+Departamento Amunátegui Id: 35455
+45000000 pesos
+$
+45.000.000
+26 m² útiles
+1 dormitorio
+Departamento en venta
+Conde Del Maule, Metro Ecuador, Estación Central
+Departamento Conde Del Maule Id: 28048
+68000000 pesos
+$
+68.000.000
+38 m² útiles
+1 dormitorio
+Departamento en venta
+Santo Domingo, Centro Histórico De Santiago, Santiago
+Departamento Santo Domingo Id: 34078
+1900 undefined
+UF
+1.900
+41 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida Padre Alberto Hurtado, Universidad De Santiago, Estación Central
+Departamento Avenida Padre Alberto Hurtado Id: 55853
+2800 undefined
+UF
+2.800
+42 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida España, Barrio República, Santiago
+Departamento Avenida España Id: 22229
+2000 undefined
+UF
+2.000
+33 m² útiles
+1 dormitorio
+Departamento en venta
+Avenida Padre Alberto Hurtado, San Alberto Hurtado, Estación Central
+Departamento Avenida Padre Alberto Hurtado Id: 48750
+1290 undefined
+UF
+1.290
+22 m² útiles
+1 dormitorio
+Departamento en venta
+Coronel Souper, San Alberto Hurtado, Estación Central
+Departamento Coronel Souper Id: 40556
+2190 undefined
+UF
+2.190
+49 m² útiles
+3 dormitorios
+Departamento en venta
+Cruchaga Montt, Gruta De Lourdes, Quinta Normal
+Departamento Cruchaga Montt Id: 33989
+67000000 pesos
+$
+67.000.000
+31 m² útiles
+1 dormitorio
+Departamento en venta
+Catedral, Barrio Brasil, Santiago
+Departamento Catedral Id: 27060
+1500 undefined
+UF
+1.500
+25 m² útiles
+1 dormitorio
+Departamento en venta
+Blanco Garcés, San Alberto Hurtado, Estación Central
+Departamento Blanco Garcés Id: 38160
+1920 undefined
+UF
+1.920
+33 m² útiles
+1 dormitorio
+Departamento en venta
+Radal, Metro Ecuador, Estación Central
+Departamento Radal Id: 29169
+2500 undefined
+UF
+2.500
+31 m² útiles
+1 dormitorio
+Departamento en venta
+Santa Victoria, Santa Isabel, Santiago
+Departamento Santa Victoria Id: 33174
+3590 undefined
+UF
+3.590
+61 m² útiles
+2 dormitorios
+Departamento en venta
+Agustinas, Centro Histórico De Santiago, Santiago
+Departamento Agustinas Id: 24207
+3588 undefined
+UF
+3.588
+57 m² útiles
+2 dormitorios
+Departamento en venta
+San Francisco/ Eyzaguirre/ Metro Estación Av. Matta, San Diego, Santiago
+4000 undefined
+UF
+4.000
+60 m² útiles
+2 dormitorios
+Departamento en venta
+San Isidro, Santa Isabel, Santiago
+Departamento San Isidro Id: 39614
+2450 undefined
+UF
+2.450
+38 m² útiles
+1 dormitorio
+Departamento en venta
+Avenida Santa Rosa, San Diego, Santiago
+Departamento Avenida Santa Rosa Id: 77176
+2450 undefined
+UF
+2.450
+38 m² útiles
+1 dormitorio
+Departamento en venta
+Avenida Santa Rosa, Barrio Diez De Julio, Santiago
+Departamento Avenida Santa Rosa Id: 77632
+4300 undefined
+UF
+4.300
+65 m² útiles
+3 dormitorios
+Departamento en venta
+Eleuterio Ramírez, San Diego, Santiago
+Departamento Eleuterio Ramírez Id: 50319
+1900 undefined
+UF
+1.900
+38 m² útiles
+1 dormitorio
+Departamento en venta
+Serrano, Bulnes, Santiago
+Departamento Serrano Id: 32379
+4150 undefined
+UF
+4.150
+53 m² útiles
+3 dormitorios
+Departamento en venta
+Lord Cochrane 1 - 300, Santiago, Chile, Bulnes, Santiago
+Centrico Departamento 3d2b C/estacionamiento
+4750 undefined
+UF
+4.750
+85 m² útiles
+3 dormitorios
+Departamento en venta
+Padre Alonso De Ovalle, Bulnes, Santiago
+Departamento Padre Alonso De Ovalle Id: 73042
+1350 undefined
+UF
+1.350
+22 m² útiles
+1 dormitorio
+Departamento en venta
+San Diego, Santiago
+Departamento San Diego Id: 29206
+2850 undefined
+UF
+2.850
+50 m² útiles
+3 dormitorios
+Departamento en venta
+San Pablo 3900, Gruta De Lourdes, Quinta Normal
+Dpto Qta Normal 3 Dorm + 1 Baño
+2856 undefined
+UF
+2.856
+50 m² útiles
+2 dormitorios
+Departamento en venta
+Tarapaca 1331, Departamento 2204, Bulnes, Santiago
+Departamento Vista Despejada A Pasos De Parque Almagro
+1930 undefined
+UF
+1.930
+30 m² útiles
+1 dormitorio
+Departamento en venta
+Teatinos, Centro Histórico De Santiago, Santiago
+Departamento Teatinos Id: 65850
+2173 undefined
+UF
+2.173
+55 m² útiles
+2 dormitorios
+Departamento en venta
+Avenida San Ignacio 999, Santiago, Chile, Parque Almagro, Santiago
+Oportunidad, Departamento Sector Parque O'higgins, Santiago
+3679 undefined
+UF
+3.679
+72 m² útiles
+3 dormitorios
+Departamento en venta
+Amunategui 810, Dpto. 2608, Centro Histórico De Santiago, Santiago
+Departamento Cercano A Estación De Metro Santa Ana
+2303 undefined
+UF
+2.303
+54 m² útiles
+3 dormitorios
+Departamento en venta
+Moneda, Barrio Brasil, Santiago
+Departamento Moneda Id: 73854
+2750 undefined
+UF
+2.750
+55 m² útiles
+3 dormitorios
+Departamento en venta
+Rosas 2599, Santiago, Chile, Barrio Yungay, Santiago
+Venta De Departamentos 3 Hab 2 Baños Con Estacionamiento

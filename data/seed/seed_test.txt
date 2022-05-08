@@ -1,0 +1,7 @@
+https://www.portalinmobiliario.com/venta/casa/_item*location_lat:-33.407210455950754*-33.34155461939638,lon:-70.5997459981393*-70.46670843100063
+https://www.portalinmobiliario.com/venta/casa/_item*location_lat:-33.553606254164315*-33.48806118122202,lon:-70.64708800306502*-70.51405043592635
+https://www.portalinmobiliario.com/venta/casa/_NoIndex_True_item*location_lat:-33.45809169698696*-33.32680734653466,lon:-70.84730716241776*-70.58123202814042
+https://www.portalinmobiliario.com/venta/casa/_NoIndex_True_item*location_lat:-33.585931148714224*-33.45484036418448,lon:-70.84284396661698*-70.57676883233964
+https://www.portalinmobiliario.com/venta/casa/_item*location_lat:-33.47488893274836*-33.409284248693226,lon:-70.61893553724471*-70.48589797010604
+https://www.portalinmobiliario.com/venta/casa/_Desde_51_NoIndex_True_item*location_lat:-33.407210455950754*-33.34155461939638,lon:-70.5997459981393*-70.46670843100063
+https://www.portalinmobiliario.com/venta/casa/_Desde_51_NoIndex_True_item*location_lat:-33.47488893274836*-33.409284248693226,lon:-70.61893553724471*-70.48589797010604

@@ -34,8 +34,6 @@ for line in lines:
     time.sleep(3)
 
     all = driver.find_elements(By.XPATH, "//a[contains(@class, 'ui-search-result__content-wrapper ui-search-link')]")
-    time.sleep(3)
-
 
     for elem in all:
         all_info.append(elem.text)
